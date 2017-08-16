@@ -3,6 +3,9 @@
 
 * check_flash  
     检测浏览器对flash的支持性
+
+* cookieUtil  
+    cookie查找，添加和删除
     
 * equal  
     判断数字是否相等
